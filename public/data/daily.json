@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-10-30": {
+      "day": "2026-10-30",
+      "updatedAt": "2026-10-28T20:31:42.188Z",
+      "words": [
+        {
+          "word": "flexible",
+          "meaning": "彈性的",
+          "pos": "adjective",
+          "example": "We offer flexible working hours.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "growth",
+          "meaning": "成長",
+          "pos": "noun",
+          "example": "The report forecasts steady growth.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "inspect",
+          "meaning": "檢查",
+          "pos": "verb",
+          "example": "Staff inspect all products before shipping.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "mandatory",
+          "meaning": "強制的",
+          "pos": "adjective",
+          "example": "Safety training is mandatory for new staff.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "outstanding",
+          "meaning": "未付的；傑出的",
+          "pos": "adjective",
+          "example": "Please pay the outstanding balance.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "postpone",
+          "meaning": "延後",
+          "pos": "verb",
+          "example": "We may postpone the meeting until Thursday.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 18:45:09 GMT"
+        },
+        {
+          "title": "What we now know about the UK economy in four charts",
+          "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 20:08:45 GMT"
+        },
+        {
+          "title": "What the Budget offers for under 25s - and what it leaves out",
+          "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 20:02:38 GMT"
+        },
+        {
+          "title": "Your pay, energy bills and savings: How the Budget affects you",
+          "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 16:43:35 GMT"
+        },
+        {
+          "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+          "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 19:51:01 GMT"
+        },
+        {
+          "title": "Will I get the £100 energy payment and when will I receive it?",
+          "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 17:47:37 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-10-29": {
       "day": "2026-10-29",
-      "updatedAt": "2026-10-28T13:48:38.076Z",
+      "updatedAt": "2026-10-28T20:31:42.188Z",
       "words": [
         {
           "word": "vacancy",
@@ -50,34 +135,34 @@
       ],
       "news": [
         {
+          "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 18:45:09 GMT"
+        },
+        {
+          "title": "What we now know about the UK economy in four charts",
+          "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 20:08:45 GMT"
+        },
+        {
+          "title": "What the Budget offers for under 25s - and what it leaves out",
+          "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 20:02:38 GMT"
+        },
+        {
           "title": "Your pay, energy bills and savings: How the Budget affects you",
           "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 13:45:04 GMT"
+          "published": "Wed, 28 Oct 2026 16:43:35 GMT"
         },
         {
-          "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-          "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 11:30:26 GMT"
+          "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+          "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 19:51:01 GMT"
         },
         {
-          "title": "Budget 2026: Key points at a glance",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 13:33:00 GMT"
-        },
-        {
-          "title": "You may get the right to find out what your colleagues earn - here's why",
-          "url": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 10:42:39 GMT"
-        },
-        {
-          "title": "'An annoying buzz': The search for stealthier drones",
-          "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 00:01:10 GMT"
-        },
-        {
-          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-          "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 10:31:22 GMT"
+          "title": "Will I get the £100 energy payment and when will I receive it?",
+          "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 17:47:37 GMT"
         }
       ],
       "newsOk": true,
@@ -172,5 +257,5 @@
       "scheduled": true
     }
   },
-  "updatedAt": "2026-10-28T13:48:38.076Z"
+  "updatedAt": "2026-10-28T20:31:42.188Z"
 }
