@@ -5,6 +5,7 @@ A complete static English training website for GitHub Pages. Learners' records s
 ## Features
 
 - Four progressive courses with reading, browser speech playback, daily original workplace cloze exercises and explanations.
+- Double-click an English word in Learning path or an open course to see its Chinese meaning and usage note. The small window closes after three seconds; another lookup restarts the timer. Course readings and curated example sentences are covered by an offline glossary, including common inflected forms. Escape dismisses the word window first. Keyboard users can select a word and press Alt+Enter.
 - Six different study days in a Monday–Sunday week, counted in Asia/Taipei, plus a passed lesson (2/3), unlock the next course. Maximum one advancement per week. Opening the site automatically records the day's local check-in.
 - Six curated workplace words rotate daily; up to two additional words are extracted from current BBC Business headlines and verified by Free Dictionary API. The 78-word workplace collection repeats every 13 days for review.
 - Daily news reading prompts, source links, date labels, vocabulary quizzes and saved words.
