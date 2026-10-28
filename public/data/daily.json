@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "sets": {
+    "2026-10-29": {
+      "day": "2026-10-29",
+      "updatedAt": "2026-10-28T13:15:10.848Z",
+      "words": [
+        {
+          "word": "vacancy",
+          "meaning": "職缺",
+          "pos": "noun",
+          "example": "There is a vacancy in the sales department.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "warranty",
+          "meaning": "保固",
+          "pos": "noun",
+          "example": "The device comes with a two-year warranty.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "authorize",
+          "meaning": "授權",
+          "pos": "verb",
+          "example": "Only a manager can authorize the payment.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "capacity",
+          "meaning": "容量；能力",
+          "pos": "noun",
+          "example": "The factory is operating at full capacity.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "distribute",
+          "meaning": "分發",
+          "pos": "verb",
+          "example": "Please distribute these documents before the meeting.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "evaluate",
+          "meaning": "評量",
+          "pos": "verb",
+          "example": "We evaluate employee performance every year.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "annoying",
+          "meaning": "時事單字 · English definition below",
+          "pos": "verb",
+          "definition": "To disturb or irritate, especially by continued or repeated acts; to bother with unpleasant deeds.",
+          "example": "Marc loved his sister, but when she annoyed him he wanted to switch her off.",
+          "phonetic": "",
+          "source": "BBC headline + Free Dictionary API",
+          "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "word": "search",
+          "meaning": "時事單字 · English definition below",
+          "pos": "noun",
+          "definition": "An attempt to find something.",
+          "example": "With only five minutes until we were meant to leave, the search for the keys started in earnest.",
+          "phonetic": "/sɜːt͡ʃ/",
+          "source": "BBC headline + Free Dictionary API",
+          "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "news": [
+        {
+          "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+          "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 11:30:26 GMT"
+        },
+        {
+          "title": "Budget 2026: Key points at a glance",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 13:13:38 GMT"
+        },
+        {
+          "title": "You may get the right to find out what your colleagues earn - here's why",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 10:42:39 GMT"
+        },
+        {
+          "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+          "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 27 Oct 2026 15:01:27 GMT"
+        },
+        {
+          "title": "'An annoying buzz': The search for stealthier drones",
+          "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 00:01:10 GMT"
+        },
+        {
+          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+          "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 10:31:22 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": true,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
+    "2026-10-28": {
+      "day": "2026-10-28",
+      "updatedAt": "2026-10-28T13:15:10.848Z",
+      "words": [
+        {
+          "word": "participate",
+          "meaning": "參與",
+          "pos": "verb",
+          "example": "All employees can participate in the workshop.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "qualified",
+          "meaning": "合格的",
+          "pos": "adjective",
+          "example": "We need a qualified engineer.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "reimburse",
+          "meaning": "償還；報銷",
+          "pos": "verb",
+          "example": "The company will reimburse travel expenses.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "strategy",
+          "meaning": "策略",
+          "pos": "noun",
+          "example": "Our strategy focuses on customer service.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "temporary",
+          "meaning": "暫時的",
+          "pos": "adjective",
+          "example": "This is a temporary arrangement.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "update",
+          "meaning": "更新",
+          "pos": "verb",
+          "example": "Please update your contact details.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "bigger",
+          "meaning": "時事單字 · English definition below",
+          "pos": "adjective",
+          "definition": "Of great size, large.",
+          "example": "Elephants are big animals, and they eat a lot.",
+          "phonetic": "/ˈbɪɡə/",
+          "source": "BBC headline + Free Dictionary API",
+          "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "word": "increase",
+          "meaning": "時事單字 · English definition below",
+          "pos": "noun",
+          "definition": "An amount by which a quantity is increased.",
+          "example": "Context: Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+          "phonetic": "",
+          "source": "BBC headline + Free Dictionary API",
+          "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "news": [
+        {
+          "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+          "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 11:30:26 GMT"
+        },
+        {
+          "title": "Budget 2026: Key points at a glance",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 13:13:38 GMT"
+        },
+        {
+          "title": "You may get the right to find out what your colleagues earn - here's why",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 10:42:39 GMT"
+        },
+        {
+          "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+          "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 27 Oct 2026 15:01:27 GMT"
+        },
+        {
+          "title": "'An annoying buzz': The search for stealthier drones",
+          "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 00:01:10 GMT"
+        },
+        {
+          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+          "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 10:31:22 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": true,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    }
+  },
+  "updatedAt": "2026-10-28T13:15:10.848Z"
+}
