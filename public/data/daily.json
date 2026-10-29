@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-10-31": {
+      "day": "2026-10-31",
+      "updatedAt": "2026-10-29T20:32:53.044Z",
+      "words": [
+        {
+          "word": "recruit",
+          "meaning": "招募",
+          "pos": "verb",
+          "example": "The agency will recruit ten new employees.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "shipment",
+          "meaning": "貨運；一批貨物",
+          "pos": "noun",
+          "example": "Your shipment will arrive on Tuesday.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "transfer",
+          "meaning": "調動；轉移",
+          "pos": "verb",
+          "example": "Please transfer the files to the shared folder.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "undertake",
+          "meaning": "承擔",
+          "pos": "verb",
+          "example": "Our team will undertake the research.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "verify",
+          "meaning": "核實",
+          "pos": "verb",
+          "example": "Please verify the information before submitting it.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "withdraw",
+          "meaning": "撤回",
+          "pos": "verb",
+          "example": "The supplier decided to withdraw its offer.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+          "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Oct 2026 19:11:10 GMT"
+        },
+        {
+          "title": "US interest rates held steady and economy grows - what it means for you",
+          "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Oct 2026 17:15:05 GMT"
+        },
+        {
+          "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+          "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Oct 2026 13:19:24 GMT"
+        },
+        {
+          "title": "Faisal Islam: This Budget was micro and that was deliberate",
+          "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Oct 2026 15:48:44 GMT"
+        },
+        {
+          "title": "Bereaved families will not face tax bill over pension delays under new rules",
+          "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Oct 2026 15:18:04 GMT"
+        },
+        {
+          "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Oct 2026 09:30:03 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-10-30": {
       "day": "2026-10-30",
-      "updatedAt": "2026-10-28T20:31:42.188Z",
+      "updatedAt": "2026-10-29T20:32:53.044Z",
       "words": [
         {
           "word": "flexible",
@@ -50,34 +135,34 @@
       ],
       "news": [
         {
-          "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-          "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 18:45:09 GMT"
+          "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+          "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Oct 2026 19:11:10 GMT"
         },
         {
-          "title": "What we now know about the UK economy in four charts",
-          "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 20:08:45 GMT"
+          "title": "US interest rates held steady and economy grows - what it means for you",
+          "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Oct 2026 17:15:05 GMT"
         },
         {
-          "title": "What the Budget offers for under 25s - and what it leaves out",
-          "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 20:02:38 GMT"
+          "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+          "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Oct 2026 13:19:24 GMT"
         },
         {
-          "title": "Your pay, energy bills and savings: How the Budget affects you",
-          "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 16:43:35 GMT"
+          "title": "Faisal Islam: This Budget was micro and that was deliberate",
+          "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Oct 2026 15:48:44 GMT"
         },
         {
-          "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-          "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 19:51:01 GMT"
+          "title": "Bereaved families will not face tax bill over pension delays under new rules",
+          "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Oct 2026 15:18:04 GMT"
         },
         {
-          "title": "Will I get the £100 energy payment and when will I receive it?",
-          "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 17:47:37 GMT"
+          "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 29 Oct 2026 09:30:03 GMT"
         }
       ],
       "newsOk": true,
@@ -257,5 +342,5 @@
       "scheduled": true
     }
   },
-  "updatedAt": "2026-10-28T20:31:42.188Z"
+  "updatedAt": "2026-10-29T20:32:53.044Z"
 }
