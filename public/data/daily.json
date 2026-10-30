@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-11-01": {
+      "day": "2026-11-01",
+      "updatedAt": "2026-10-30T20:06:44.757Z",
+      "words": [
+        {
+          "word": "accurate",
+          "meaning": "正確的",
+          "pos": "adjective",
+          "example": "We need accurate figures for the report.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "brief",
+          "meaning": "簡短的",
+          "pos": "adjective",
+          "example": "The director gave a brief introduction.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "compliance",
+          "meaning": "遵守",
+          "pos": "noun",
+          "example": "The audit checks compliance with safety rules.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "decline",
+          "meaning": "下降",
+          "pos": "noun",
+          "example": "Sales showed a slight decline in July.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "eligible",
+          "meaning": "符合資格的",
+          "pos": "adjective",
+          "example": "Full-time staff are eligible for this benefit.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "forecast",
+          "meaning": "預測",
+          "pos": "noun",
+          "example": "The latest forecast suggests strong demand.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 17:39:43 GMT"
+        },
+        {
+          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 17:47:01 GMT"
+        },
+        {
+          "title": "What we know about Binance's $6.3bn hack",
+          "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 12:27:28 GMT"
+        },
+        {
+          "title": "City of London chief tops UK Black Powerlist",
+          "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 18:00:24 GMT"
+        },
+        {
+          "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 00:00:35 GMT"
+        },
+        {
+          "title": "How video game remakes tap the power of nostalgia",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 07:45:00 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-10-31": {
       "day": "2026-10-31",
-      "updatedAt": "2026-10-29T20:32:53.044Z",
+      "updatedAt": "2026-10-30T20:06:44.757Z",
       "words": [
         {
           "word": "recruit",
@@ -50,34 +135,34 @@
       ],
       "news": [
         {
-          "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-          "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 29 Oct 2026 19:11:10 GMT"
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 17:39:43 GMT"
         },
         {
-          "title": "US interest rates held steady and economy grows - what it means for you",
-          "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 29 Oct 2026 17:15:05 GMT"
+          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 17:47:01 GMT"
         },
         {
-          "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-          "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 29 Oct 2026 13:19:24 GMT"
+          "title": "What we know about Binance's $6.3bn hack",
+          "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 12:27:28 GMT"
         },
         {
-          "title": "Faisal Islam: This Budget was micro and that was deliberate",
-          "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 29 Oct 2026 15:48:44 GMT"
+          "title": "City of London chief tops UK Black Powerlist",
+          "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 18:00:24 GMT"
         },
         {
-          "title": "Bereaved families will not face tax bill over pension delays under new rules",
-          "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 29 Oct 2026 15:18:04 GMT"
+          "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 00:00:35 GMT"
         },
         {
-          "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-          "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 29 Oct 2026 09:30:03 GMT"
+          "title": "How video game remakes tap the power of nostalgia",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 07:45:00 GMT"
         }
       ],
       "newsOk": true,
@@ -342,5 +427,5 @@
       "scheduled": true
     }
   },
-  "updatedAt": "2026-10-29T20:32:53.044Z"
+  "updatedAt": "2026-10-30T20:06:44.757Z"
 }
