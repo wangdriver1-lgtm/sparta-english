@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-11-05": {
+      "day": "2026-11-05",
+      "updatedAt": "2026-11-03T21:14:11.910Z",
+      "words": [
+        {
+          "word": "proposal",
+          "meaning": "提案",
+          "pos": "noun",
+          "example": "The committee will review your proposal.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "inventory",
+          "meaning": "庫存",
+          "pos": "noun",
+          "example": "We check our inventory every Monday.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "available",
+          "meaning": "可用的",
+          "pos": "adjective",
+          "example": "A meeting room is available on the third floor.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "expand",
+          "meaning": "擴展",
+          "pos": "verb",
+          "example": "The retailer plans to expand into new markets.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "invoice",
+          "meaning": "發票；請款單",
+          "pos": "noun",
+          "example": "Please attach the invoice to your email.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "colleague",
+          "meaning": "同事",
+          "pos": "noun",
+          "example": "My colleague helped me prepare the presentation.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 20:53:03 GMT"
+        },
+        {
+          "title": "Drivers may get compensation offers before car finance saga ends",
+          "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 11:56:31 GMT"
+        },
+        {
+          "title": "Mining giant joins fight to stop killer toad march across Australia",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 15:05:01 GMT"
+        },
+        {
+          "title": "Asda hires ex-Morrisons boss in bid to grow firm",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 15:12:35 GMT"
+        },
+        {
+          "title": "'Quiet quitting' could be hitting the economy - here's why",
+          "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 11:15:51 GMT"
+        },
+        {
+          "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+          "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 07:50:14 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-11-04": {
       "day": "2026-11-04",
-      "updatedAt": "2026-11-02T23:12:43.954Z",
+      "updatedAt": "2026-11-03T21:14:11.910Z",
       "words": [
         {
           "word": "allocate",
@@ -50,39 +135,39 @@
       ],
       "news": [
         {
-          "title": "Ryanair says it may freeze workers' pay and raise airfares",
-          "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 02 Nov 2026 12:22:10 GMT"
+          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 20:53:03 GMT"
         },
         {
-          "title": "Shop freezers in seven European countries hit by cyber-attack",
-          "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 02 Nov 2026 17:38:11 GMT"
+          "title": "Drivers may get compensation offers before car finance saga ends",
+          "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 11:56:31 GMT"
         },
         {
-          "title": "Poundland's former owner offers to invest as minister prepares to meet board",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 02 Nov 2026 13:40:36 GMT"
+          "title": "Mining giant joins fight to stop killer toad march across Australia",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 15:05:01 GMT"
         },
         {
-          "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 02 Nov 2026 07:42:33 GMT"
+          "title": "Asda hires ex-Morrisons boss in bid to grow firm",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 15:12:35 GMT"
         },
         {
-          "title": "Don't get caught out by new Buy Now Pay Later rules",
-          "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Nov 2026 23:34:49 GMT"
+          "title": "'Quiet quitting' could be hitting the economy - here's why",
+          "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 11:15:51 GMT"
         },
         {
-          "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-          "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 01 Nov 2026 16:57:14 GMT"
+          "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+          "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 07:50:14 GMT"
         }
       ],
       "newsOk": true,
       "dictionaryOk": false,
-      "officialOk": true,
+      "officialOk": false,
       "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
       "scheduled": true
     },
@@ -682,5 +767,5 @@
       "scheduled": true
     }
   },
-  "updatedAt": "2026-11-02T23:12:43.954Z"
+  "updatedAt": "2026-11-03T21:14:11.910Z"
 }
