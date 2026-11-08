@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-11-10": {
+      "day": "2026-11-10",
+      "updatedAt": "2026-11-08T19:56:25.343Z",
+      "words": [
+        {
+          "word": "participate",
+          "meaning": "參與",
+          "pos": "verb",
+          "example": "All employees can participate in the workshop.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "qualified",
+          "meaning": "合格的",
+          "pos": "adjective",
+          "example": "We need a qualified engineer.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "reimburse",
+          "meaning": "償還；報銷",
+          "pos": "verb",
+          "example": "The company will reimburse travel expenses.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "strategy",
+          "meaning": "策略",
+          "pos": "noun",
+          "example": "Our strategy focuses on customer service.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "temporary",
+          "meaning": "暫時的",
+          "pos": "adjective",
+          "example": "This is a temporary arrangement.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "update",
+          "meaning": "更新",
+          "pos": "verb",
+          "example": "Please update your contact details.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Nov 2026 15:37:25 GMT"
+        },
+        {
+          "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+          "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Nov 2026 01:41:36 GMT"
+        },
+        {
+          "title": "He spent $50,000 on Labubus but now the craze is dying",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Nov 2026 23:02:35 GMT"
+        },
+        {
+          "title": "AI stocks climb after trillions wiped from market values",
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 21:06:25 GMT"
+        },
+        {
+          "title": "Why the US midterms sparked an AI stock selloff",
+          "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 18:32:16 GMT"
+        },
+        {
+          "title": "How does it affect me if share prices fall?",
+          "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 09:21:50 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-11-09": {
       "day": "2026-11-09",
-      "updatedAt": "2026-11-07T19:36:17.385Z",
+      "updatedAt": "2026-11-08T19:56:25.343Z",
       "words": [
         {
           "word": "incentive",
@@ -50,6 +135,21 @@
       ],
       "news": [
         {
+          "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Nov 2026 15:37:25 GMT"
+        },
+        {
+          "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+          "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Nov 2026 01:41:36 GMT"
+        },
+        {
+          "title": "He spent $50,000 on Labubus but now the craze is dying",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Nov 2026 23:02:35 GMT"
+        },
+        {
           "title": "AI stocks climb after trillions wiped from market values",
           "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 06 Nov 2026 21:06:25 GMT"
@@ -63,21 +163,6 @@
           "title": "How does it affect me if share prices fall?",
           "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
           "published": "Fri, 06 Nov 2026 09:21:50 GMT"
-        },
-        {
-          "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-          "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 06 Nov 2026 17:19:38 GMT"
-        },
-        {
-          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 06 Nov 2026 21:49:50 GMT"
-        },
-        {
-          "title": "The engine parts that 'fight the laws of the universe'",
-          "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 06 Nov 2026 00:06:06 GMT"
         }
       ],
       "newsOk": true,
@@ -1107,5 +1192,5 @@
       "scheduled": true
     }
   },
-  "updatedAt": "2026-11-07T19:36:17.385Z"
+  "updatedAt": "2026-11-08T19:56:25.343Z"
 }
