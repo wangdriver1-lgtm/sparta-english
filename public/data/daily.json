@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-11-13": {
+      "day": "2026-11-13",
+      "updatedAt": "2026-11-11T22:14:40.486Z",
+      "words": [
+        {
+          "word": "recruit",
+          "meaning": "招募",
+          "pos": "verb",
+          "example": "The agency will recruit ten new employees.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "shipment",
+          "meaning": "貨運；一批貨物",
+          "pos": "noun",
+          "example": "Your shipment will arrive on Tuesday.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "transfer",
+          "meaning": "調動；轉移",
+          "pos": "verb",
+          "example": "Please transfer the files to the shared folder.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "undertake",
+          "meaning": "承擔",
+          "pos": "verb",
+          "example": "Our team will undertake the research.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "verify",
+          "meaning": "核實",
+          "pos": "verb",
+          "example": "Please verify the information before submitting it.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "withdraw",
+          "meaning": "撤回",
+          "pos": "verb",
+          "example": "The supplier decided to withdraw its offer.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+          "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 22:08:56 GMT"
+        },
+        {
+          "title": "Christmas toy rush being driven by squishies and building sets",
+          "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 07:52:05 GMT"
+        },
+        {
+          "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+          "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 21:42:20 GMT"
+        },
+        {
+          "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 22:52:15 GMT"
+        },
+        {
+          "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 17:56:12 GMT"
+        },
+        {
+          "title": "Robot vessels take on the dangerous work of mine hunting",
+          "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 00:19:13 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-11-12": {
       "day": "2026-11-12",
-      "updatedAt": "2026-11-10T21:24:33.501Z",
+      "updatedAt": "2026-11-11T22:14:40.486Z",
       "words": [
         {
           "word": "flexible",
@@ -50,9 +135,24 @@
       ],
       "news": [
         {
-          "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+          "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+          "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 22:08:56 GMT"
+        },
+        {
+          "title": "Christmas toy rush being driven by squishies and building sets",
+          "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 07:52:05 GMT"
+        },
+        {
+          "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+          "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 21:42:20 GMT"
+        },
+        {
+          "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
           "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 10 Nov 2026 21:06:04 GMT"
+          "published": "Tue, 10 Nov 2026 22:52:15 GMT"
         },
         {
           "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
@@ -60,24 +160,9 @@
           "published": "Tue, 10 Nov 2026 17:56:12 GMT"
         },
         {
-          "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-          "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 10 Nov 2026 15:10:20 GMT"
-        },
-        {
-          "title": "US inflation higher than expected in October - here's what is happening with prices",
-          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 10 Nov 2026 14:45:46 GMT"
-        },
-        {
-          "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-          "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 10 Nov 2026 17:04:55 GMT"
-        },
-        {
-          "title": "I took Vinted to court to get my money back",
-          "url": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 10 Nov 2026 00:27:37 GMT"
+          "title": "Robot vessels take on the dangerous work of mine hunting",
+          "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 00:19:13 GMT"
         }
       ],
       "newsOk": true,
@@ -1362,5 +1447,5 @@
       "scheduled": true
     }
   },
-  "updatedAt": "2026-11-10T21:24:33.501Z"
+  "updatedAt": "2026-11-11T22:14:40.486Z"
 }
