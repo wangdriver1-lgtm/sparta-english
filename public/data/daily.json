@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-11-14": {
+      "day": "2026-11-14",
+      "updatedAt": "2026-11-12T21:54:33.465Z",
+      "words": [
+        {
+          "word": "accurate",
+          "meaning": "正確的",
+          "pos": "adjective",
+          "example": "We need accurate figures for the report.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "brief",
+          "meaning": "簡短的",
+          "pos": "adjective",
+          "example": "The director gave a brief introduction.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "compliance",
+          "meaning": "遵守",
+          "pos": "noun",
+          "example": "The audit checks compliance with safety rules.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "decline",
+          "meaning": "下降",
+          "pos": "noun",
+          "example": "Sales showed a slight decline in July.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "eligible",
+          "meaning": "符合資格的",
+          "pos": "adjective",
+          "example": "Full-time staff are eligible for this benefit.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "forecast",
+          "meaning": "預測",
+          "pos": "noun",
+          "example": "The latest forecast suggests strong demand.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 17:11:48 GMT"
+        },
+        {
+          "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 15:10:32 GMT"
+        },
+        {
+          "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+          "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 13:27:09 GMT"
+        },
+        {
+          "title": "UK economy grows at fastest rate for more than two years",
+          "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 11:20:25 GMT"
+        },
+        {
+          "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+          "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 14:29:59 GMT"
+        },
+        {
+          "title": "Some under-25s should get fewer benefits, Milburn review to say",
+          "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 17:32:14 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-11-13": {
       "day": "2026-11-13",
-      "updatedAt": "2026-11-11T22:14:40.486Z",
+      "updatedAt": "2026-11-12T21:54:33.465Z",
       "words": [
         {
           "word": "recruit",
@@ -50,34 +135,34 @@
       ],
       "news": [
         {
-          "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+          "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 17:11:48 GMT"
+        },
+        {
+          "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 15:10:32 GMT"
+        },
+        {
+          "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+          "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 13:27:09 GMT"
+        },
+        {
+          "title": "UK economy grows at fastest rate for more than two years",
+          "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 11:20:25 GMT"
+        },
+        {
+          "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
           "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 11 Nov 2026 22:08:56 GMT"
+          "published": "Thu, 12 Nov 2026 14:29:59 GMT"
         },
         {
-          "title": "Christmas toy rush being driven by squishies and building sets",
-          "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 11 Nov 2026 07:52:05 GMT"
-        },
-        {
-          "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-          "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 11 Nov 2026 21:42:20 GMT"
-        },
-        {
-          "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 10 Nov 2026 22:52:15 GMT"
-        },
-        {
-          "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 10 Nov 2026 17:56:12 GMT"
-        },
-        {
-          "title": "Robot vessels take on the dangerous work of mine hunting",
-          "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 11 Nov 2026 00:19:13 GMT"
+          "title": "Some under-25s should get fewer benefits, Milburn review to say",
+          "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 17:32:14 GMT"
         }
       ],
       "newsOk": true,
@@ -1447,5 +1532,5 @@
       "scheduled": true
     }
   },
-  "updatedAt": "2026-11-11T22:14:40.486Z"
+  "updatedAt": "2026-11-12T21:54:33.465Z"
 }
