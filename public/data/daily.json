@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-11-15": {
+      "day": "2026-11-15",
+      "updatedAt": "2026-11-13T21:35:55.778Z",
+      "words": [
+        {
+          "word": "generate",
+          "meaning": "產生",
+          "pos": "verb",
+          "example": "The campaign should generate new leads.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "initiative",
+          "meaning": "新措施；主動性",
+          "pos": "noun",
+          "example": "The recycling initiative starts next week.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "logistics",
+          "meaning": "物流",
+          "pos": "noun",
+          "example": "She works in the logistics department.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "margin",
+          "meaning": "利潤；差額",
+          "pos": "noun",
+          "example": "Higher costs reduced our profit margin.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "oversee",
+          "meaning": "監督",
+          "pos": "verb",
+          "example": "The supervisor will oversee the installation.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "priority",
+          "meaning": "優先事項",
+          "pos": "noun",
+          "example": "Customer safety is our top priority.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 21:14:22 GMT"
+        },
+        {
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 18:36:57 GMT"
+        },
+        {
+          "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+          "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 12:22:30 GMT"
+        },
+        {
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 19:53:57 GMT"
+        },
+        {
+          "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 00:13:35 GMT"
+        },
+        {
+          "title": "Heat pumps: How much heat does your home really need?",
+          "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 09:29:25 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-11-14": {
       "day": "2026-11-14",
-      "updatedAt": "2026-11-12T21:54:33.465Z",
+      "updatedAt": "2026-11-13T21:35:55.778Z",
       "words": [
         {
           "word": "accurate",
@@ -50,34 +135,34 @@
       ],
       "news": [
         {
-          "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 12 Nov 2026 17:11:48 GMT"
+          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 21:14:22 GMT"
         },
         {
-          "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 12 Nov 2026 15:10:32 GMT"
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 18:36:57 GMT"
         },
         {
-          "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-          "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 12 Nov 2026 13:27:09 GMT"
+          "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+          "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 12:22:30 GMT"
         },
         {
-          "title": "UK economy grows at fastest rate for more than two years",
-          "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 12 Nov 2026 11:20:25 GMT"
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 19:53:57 GMT"
         },
         {
-          "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-          "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 12 Nov 2026 14:29:59 GMT"
+          "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 00:13:35 GMT"
         },
         {
-          "title": "Some under-25s should get fewer benefits, Milburn review to say",
-          "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 12 Nov 2026 17:32:14 GMT"
+          "title": "Heat pumps: How much heat does your home really need?",
+          "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 09:29:25 GMT"
         }
       ],
       "newsOk": true,
@@ -1532,5 +1617,5 @@
       "scheduled": true
     }
   },
-  "updatedAt": "2026-11-12T21:54:33.465Z"
+  "updatedAt": "2026-11-13T21:35:55.778Z"
 }
