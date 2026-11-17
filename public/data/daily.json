@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-11-19": {
+      "day": "2026-11-19",
+      "updatedAt": "2026-11-17T23:08:01.719Z",
+      "words": [
+        {
+          "word": "implement",
+          "meaning": "實施",
+          "pos": "verb",
+          "example": "We will implement the new policy next month.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "budget",
+          "meaning": "預算",
+          "pos": "noun",
+          "example": "The project must stay within its budget.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "requirement",
+          "meaning": "要求",
+          "pos": "noun",
+          "example": "Experience is an important requirement for this role.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "purchase",
+          "meaning": "購買",
+          "pos": "verb",
+          "example": "You can purchase tickets online.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "schedule",
+          "meaning": "時程",
+          "pos": "noun",
+          "example": "The updated schedule is on the notice board.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "resolve",
+          "meaning": "解決",
+          "pos": "verb",
+          "example": "The support team will resolve the issue.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 23:03:39 GMT"
+        },
+        {
+          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 18:24:21 GMT"
+        },
+        {
+          "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+          "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 15:56:04 GMT"
+        },
+        {
+          "title": "Where are the most jobs for 18-24 year-olds?",
+          "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 12:35:53 GMT"
+        },
+        {
+          "title": "Speed camera fault may have allowed drivers to escape fines",
+          "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 20:04:54 GMT"
+        },
+        {
+          "title": "We couldn't afford a house alone, so we bought one with strangers",
+          "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 00:00:02 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-11-18": {
       "day": "2026-11-18",
-      "updatedAt": "2026-11-16T23:50:03.171Z",
+      "updatedAt": "2026-11-17T23:08:01.719Z",
       "words": [
         {
           "word": "proposal",
@@ -50,34 +135,34 @@
       ],
       "news": [
         {
-          "title": "California sues OpenAI over Hugging Face attack",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 16 Nov 2026 23:12:24 GMT"
+          "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 23:03:39 GMT"
         },
         {
-          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 16 Nov 2026 22:21:27 GMT"
+          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 18:24:21 GMT"
         },
         {
-          "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-          "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 16 Nov 2026 13:19:33 GMT"
+          "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+          "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 15:56:04 GMT"
         },
         {
-          "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 16 Nov 2026 15:40:16 GMT"
+          "title": "Where are the most jobs for 18-24 year-olds?",
+          "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 12:35:53 GMT"
         },
         {
-          "title": "Customers report service outages at major US banks",
-          "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 16 Nov 2026 23:15:21 GMT"
+          "title": "Speed camera fault may have allowed drivers to escape fines",
+          "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 20:04:54 GMT"
         },
         {
-          "title": "Intel sued by investors after PC sales slump hits share price",
-          "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 16 Nov 2026 03:04:01 GMT"
+          "title": "We couldn't afford a house alone, so we bought one with strangers",
+          "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 00:00:02 GMT"
         }
       ],
       "newsOk": true,
@@ -1872,5 +1957,5 @@
       "scheduled": true
     }
   },
-  "updatedAt": "2026-11-16T23:50:03.171Z"
+  "updatedAt": "2026-11-17T23:08:01.719Z"
 }
