@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-11-21": {
+      "day": "2026-11-21",
+      "updatedAt": "2026-11-19T22:45:32.915Z",
+      "words": [
+        {
+          "word": "candidate",
+          "meaning": "候選人",
+          "pos": "noun",
+          "example": "Each candidate will attend an interview.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "deliver",
+          "meaning": "交付",
+          "pos": "verb",
+          "example": "We deliver orders within three working days.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "estimate",
+          "meaning": "估計",
+          "pos": "noun",
+          "example": "Please provide a cost estimate.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "feedback",
+          "meaning": "回饋",
+          "pos": "noun",
+          "example": "Customer feedback helps us improve.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "guarantee",
+          "meaning": "保證",
+          "pos": "verb",
+          "example": "We guarantee a response within two days.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "headquarters",
+          "meaning": "總部",
+          "pos": "noun",
+          "example": "The headquarters are located in Taipei.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 21:38:42 GMT"
+        },
+        {
+          "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+          "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Nov 2026 21:28:08 GMT"
+        },
+        {
+          "title": "The seven Anthropic founders who are about to become multi-billionaires",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Nov 2026 23:42:07 GMT"
+        },
+        {
+          "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 00:00:59 GMT"
+        },
+        {
+          "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 13:35:52 GMT"
+        },
+        {
+          "title": "Europe plans to catch the next computer chip wave",
+          "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Nov 2026 00:00:24 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-11-20": {
       "day": "2026-11-20",
-      "updatedAt": "2026-11-18T22:41:11.034Z",
+      "updatedAt": "2026-11-19T22:45:32.915Z",
       "words": [
         {
           "word": "appointment",
@@ -50,29 +135,29 @@
       ],
       "news": [
         {
-          "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-          "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 18 Nov 2026 13:17:06 GMT"
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 21:38:42 GMT"
         },
         {
-          "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-          "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 18 Nov 2026 13:10:01 GMT"
+          "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+          "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Nov 2026 21:28:08 GMT"
         },
         {
           "title": "The seven Anthropic founders who are about to become multi-billionaires",
           "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 18 Nov 2026 13:55:14 GMT"
+          "published": "Wed, 18 Nov 2026 23:42:07 GMT"
         },
         {
-          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 18 Nov 2026 01:18:18 GMT"
+          "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 00:00:59 GMT"
         },
         {
-          "title": "How important are Nvidia and Jensen Huang to the US economy?",
-          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 18 Nov 2026 06:04:21 GMT"
+          "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 13:35:52 GMT"
         },
         {
           "title": "Europe plans to catch the next computer chip wave",
@@ -2042,5 +2127,5 @@
       "scheduled": true
     }
   },
-  "updatedAt": "2026-11-18T22:41:11.034Z"
+  "updatedAt": "2026-11-19T22:45:32.915Z"
 }
