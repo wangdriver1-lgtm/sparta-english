@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-11-24": {
+      "day": "2026-11-24",
+      "updatedAt": "2026-11-22T21:14:04.771Z",
+      "words": [
+        {
+          "word": "vacancy",
+          "meaning": "職缺",
+          "pos": "noun",
+          "example": "There is a vacancy in the sales department.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "warranty",
+          "meaning": "保固",
+          "pos": "noun",
+          "example": "The device comes with a two-year warranty.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "authorize",
+          "meaning": "授權",
+          "pos": "verb",
+          "example": "Only a manager can authorize the payment.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "capacity",
+          "meaning": "容量；能力",
+          "pos": "noun",
+          "example": "The factory is operating at full capacity.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "distribute",
+          "meaning": "分發",
+          "pos": "verb",
+          "example": "Please distribute these documents before the meeting.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "evaluate",
+          "meaning": "評量",
+          "pos": "verb",
+          "example": "We evaluate employee performance every year.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 13:50:21 GMT"
+        },
+        {
+          "title": "Employers are being asked to give interview feedback - here's what applicants want",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 00:04:07 GMT"
+        },
+        {
+          "title": "Can AI really help spot Black Friday deals? We put it to the test",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Nov 2026 00:06:11 GMT"
+        },
+        {
+          "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+          "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Nov 2026 16:41:52 GMT"
+        },
+        {
+          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 07:12:41 GMT"
+        },
+        {
+          "title": "Should AI be judging our credit worthiness?",
+          "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Nov 2026 07:32:19 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": true,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-11-23": {
       "day": "2026-11-23",
-      "updatedAt": "2026-11-21T21:05:38.335Z",
+      "updatedAt": "2026-11-22T21:14:04.771Z",
       "words": [
         {
           "word": "participate",
@@ -50,14 +135,19 @@
       ],
       "news": [
         {
-          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Nov 2026 22:42:47 GMT"
+          "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 13:50:21 GMT"
         },
         {
-          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-          "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Nov 2026 17:49:48 GMT"
+          "title": "Employers are being asked to give interview feedback - here's what applicants want",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 00:04:07 GMT"
+        },
+        {
+          "title": "Can AI really help spot Black Friday deals? We put it to the test",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Nov 2026 00:06:11 GMT"
         },
         {
           "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
@@ -65,14 +155,9 @@
           "published": "Fri, 20 Nov 2026 16:41:52 GMT"
         },
         {
-          "title": "Trump threatens ban on US firms building AI data centres overseas",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Nov 2026 20:54:12 GMT"
-        },
-        {
-          "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 20 Nov 2026 22:53:24 GMT"
+          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 07:12:41 GMT"
         },
         {
           "title": "Should AI be judging our credit worthiness?",
@@ -2297,5 +2382,5 @@
       "scheduled": true
     }
   },
-  "updatedAt": "2026-11-21T21:05:38.335Z"
+  "updatedAt": "2026-11-22T21:14:04.771Z"
 }
