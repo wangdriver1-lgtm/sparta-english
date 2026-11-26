@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-11-28": {
+      "day": "2026-11-28",
+      "updatedAt": "2026-11-26T23:58:56.696Z",
+      "words": [
+        {
+          "word": "generate",
+          "meaning": "產生",
+          "pos": "verb",
+          "example": "The campaign should generate new leads.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "initiative",
+          "meaning": "新措施；主動性",
+          "pos": "noun",
+          "example": "The recycling initiative starts next week.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "logistics",
+          "meaning": "物流",
+          "pos": "noun",
+          "example": "She works in the logistics department.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "margin",
+          "meaning": "利潤；差額",
+          "pos": "noun",
+          "example": "Higher costs reduced our profit margin.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "oversee",
+          "meaning": "監督",
+          "pos": "verb",
+          "example": "The supervisor will oversee the installation.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "priority",
+          "meaning": "優先事項",
+          "pos": "noun",
+          "example": "Customer safety is our top priority.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 19:55:58 GMT"
+        },
+        {
+          "title": "Asia made a big AI bet on Nvidia. What happens now?",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 23:08:12 GMT"
+        },
+        {
+          "title": "UK to pay 'participation' fee to deliver EU deals",
+          "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 23:17:12 GMT"
+        },
+        {
+          "title": "Millions of people to see average monthly mortgage payments rise by £100",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 14:00:20 GMT"
+        },
+        {
+          "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+          "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 13:40:46 GMT"
+        },
+        {
+          "title": "New boss appointed to lead Travelodge",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 12:03:49 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-11-27": {
       "day": "2026-11-27",
-      "updatedAt": "2026-11-25T23:46:07.552Z",
+      "updatedAt": "2026-11-26T23:58:56.696Z",
       "words": [
         {
           "word": "accurate",
@@ -50,34 +135,34 @@
       ],
       "news": [
         {
-          "title": "Poundland collapses putting 11,000 jobs at risk",
-          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Nov 2026 21:31:10 GMT"
+          "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 19:55:58 GMT"
         },
         {
-          "title": "What's gone wrong at Poundland?",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Nov 2026 17:00:32 GMT"
+          "title": "Asia made a big AI bet on Nvidia. What happens now?",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 23:08:12 GMT"
         },
         {
-          "title": "US announces new tariffs on host of countries including China",
-          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Nov 2026 16:21:34 GMT"
+          "title": "UK to pay 'participation' fee to deliver EU deals",
+          "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 23:17:12 GMT"
         },
         {
-          "title": "US stocks fall further as fears over AI intensify",
-          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Nov 2026 21:43:18 GMT"
+          "title": "Millions of people to see average monthly mortgage payments rise by £100",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 14:00:20 GMT"
         },
         {
-          "title": "Energy bills to rise by 26% from January after gas prices surge",
-          "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Nov 2026 13:42:08 GMT"
+          "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+          "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 13:40:46 GMT"
         },
         {
-          "title": "Why tiny cars are taking off across Europe",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 25 Nov 2026 00:34:05 GMT"
+          "title": "New boss appointed to lead Travelodge",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 12:03:49 GMT"
         }
       ],
       "newsOk": true,
@@ -2637,5 +2722,5 @@
       "scheduled": true
     }
   },
-  "updatedAt": "2026-11-25T23:46:07.552Z"
+  "updatedAt": "2026-11-26T23:58:56.696Z"
 }
