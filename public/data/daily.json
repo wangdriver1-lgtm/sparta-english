@@ -1,9 +1,94 @@
 {
   "schemaVersion": 1,
   "sets": {
+    "2026-11-29": {
+      "day": "2026-11-29",
+      "updatedAt": "2026-11-27T23:42:40.787Z",
+      "words": [
+        {
+          "word": "renew",
+          "meaning": "續約",
+          "pos": "verb",
+          "example": "You can renew your membership online.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "sustainable",
+          "meaning": "永續的",
+          "pos": "adjective",
+          "example": "We are investing in sustainable transport.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "turnover",
+          "meaning": "營業額；人員流動率",
+          "pos": "noun",
+          "example": "Staff turnover decreased after the policy change.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "upgrade",
+          "meaning": "升級",
+          "pos": "verb",
+          "example": "We need to upgrade our booking software.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "venue",
+          "meaning": "場地",
+          "pos": "noun",
+          "example": "The venue is close to the train station.",
+          "source": "TOEIC-style · original example"
+        },
+        {
+          "word": "workforce",
+          "meaning": "勞動人口；員工",
+          "pos": "noun",
+          "example": "The workforce will receive additional training.",
+          "source": "TOEIC-style · original example"
+        }
+      ],
+      "news": [
+        {
+          "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 19:55:58 GMT"
+        },
+        {
+          "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+          "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 00:58:49 GMT"
+        },
+        {
+          "title": "UK to pay 'participation' fee to deliver EU deals",
+          "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 23:17:12 GMT"
+        },
+        {
+          "title": "Asia made a big AI bet on Nvidia. What happens now?",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 23:08:12 GMT"
+        },
+        {
+          "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 10:10:36 GMT"
+        },
+        {
+          "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+          "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 00:02:19 GMT"
+        }
+      ],
+      "newsOk": true,
+      "dictionaryOk": false,
+      "officialOk": false,
+      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
+      "scheduled": true
+    },
     "2026-11-28": {
       "day": "2026-11-28",
-      "updatedAt": "2026-11-26T23:58:56.696Z",
+      "updatedAt": "2026-11-27T23:42:40.787Z",
       "words": [
         {
           "word": "generate",
@@ -55,9 +140,9 @@
           "published": "Thu, 26 Nov 2026 19:55:58 GMT"
         },
         {
-          "title": "Asia made a big AI bet on Nvidia. What happens now?",
-          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Nov 2026 23:08:12 GMT"
+          "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+          "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 00:58:49 GMT"
         },
         {
           "title": "UK to pay 'participation' fee to deliver EU deals",
@@ -65,19 +150,19 @@
           "published": "Thu, 26 Nov 2026 23:17:12 GMT"
         },
         {
-          "title": "Millions of people to see average monthly mortgage payments rise by £100",
-          "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Nov 2026 14:00:20 GMT"
+          "title": "Asia made a big AI bet on Nvidia. What happens now?",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 23:08:12 GMT"
         },
         {
-          "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
-          "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Nov 2026 13:40:46 GMT"
+          "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 10:10:36 GMT"
         },
         {
-          "title": "New boss appointed to lead Travelodge",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 26 Nov 2026 12:03:49 GMT"
+          "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+          "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 00:02:19 GMT"
         }
       ],
       "newsOk": true,
@@ -2635,92 +2720,7 @@
       "officialOk": false,
       "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
       "scheduled": true
-    },
-    "2026-10-28": {
-      "day": "2026-10-28",
-      "updatedAt": "2026-10-28T13:48:38.076Z",
-      "words": [
-        {
-          "word": "participate",
-          "meaning": "參與",
-          "pos": "verb",
-          "example": "All employees can participate in the workshop.",
-          "source": "TOEIC-style · original example"
-        },
-        {
-          "word": "qualified",
-          "meaning": "合格的",
-          "pos": "adjective",
-          "example": "We need a qualified engineer.",
-          "source": "TOEIC-style · original example"
-        },
-        {
-          "word": "reimburse",
-          "meaning": "償還；報銷",
-          "pos": "verb",
-          "example": "The company will reimburse travel expenses.",
-          "source": "TOEIC-style · original example"
-        },
-        {
-          "word": "strategy",
-          "meaning": "策略",
-          "pos": "noun",
-          "example": "Our strategy focuses on customer service.",
-          "source": "TOEIC-style · original example"
-        },
-        {
-          "word": "temporary",
-          "meaning": "暫時的",
-          "pos": "adjective",
-          "example": "This is a temporary arrangement.",
-          "source": "TOEIC-style · original example"
-        },
-        {
-          "word": "update",
-          "meaning": "更新",
-          "pos": "verb",
-          "example": "Please update your contact details.",
-          "source": "TOEIC-style · original example"
-        }
-      ],
-      "news": [
-        {
-          "title": "Your pay, energy bills and savings: How the Budget affects you",
-          "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 13:45:04 GMT"
-        },
-        {
-          "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-          "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 11:30:26 GMT"
-        },
-        {
-          "title": "Budget 2026: Key points at a glance",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 13:33:00 GMT"
-        },
-        {
-          "title": "You may get the right to find out what your colleagues earn - here's why",
-          "url": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 10:42:39 GMT"
-        },
-        {
-          "title": "'An annoying buzz': The search for stealthier drones",
-          "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 00:01:10 GMT"
-        },
-        {
-          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-          "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 28 Oct 2026 10:31:22 GMT"
-        }
-      ],
-      "newsOk": true,
-      "dictionaryOk": false,
-      "officialOk": false,
-      "officialUrl": "https://www.ets.org/toeic/about/listening-reading.html",
-      "scheduled": true
     }
   },
-  "updatedAt": "2026-11-26T23:58:56.696Z"
+  "updatedAt": "2026-11-27T23:42:40.787Z"
 }
